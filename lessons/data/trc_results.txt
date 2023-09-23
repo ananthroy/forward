@@ -1,0 +1,260 @@
+Cluster 0
+ police
+ cape
+ member
+ members
+ named
+ died
+ assaulted
+ mr
+ town
+ killed
+
+
+Cluster 1
+ empangeni
+ empangeni natal
+ natal
+ kwazulu
+ ifp
+ kwazulu near
+ near
+ supporters
+ anc
+ ifp supporters
+
+
+Cluster 2
+ conflict area
+ political conflict area
+ political conflict
+ political
+ conflict
+ area
+ supporters
+ near
+ durban
+ ongoing
+
+
+Cluster 3
+ death
+ stabbed
+ anc
+ supporters
+ supporter
+ ifp
+ anc supporter
+ ifp supporters
+ natal
+ burnt
+
+
+Cluster 4
+ members sap
+ sap
+ members
+ shot
+ cape
+ shot dead
+ dead
+ police
+ transvaal
+ soweto
+
+
+Cluster 5
+ mk
+ mk operatives
+ operatives
+ injured
+ amnesty
+ granted amnesty
+ granted
+ killed
+ people
+ people killed
+
+
+Cluster 6
+ inkatha
+ inkatha supporters
+ udf
+ supporters
+ near
+ durban
+ supporter
+ kwazulu
+ kwazulu near
+ near durban
+
+
+Cluster 7
+ sonkombo
+ ndwedwe
+ ndwedwe kwazulu near
+ ndwedwe kwazulu
+ kwazulu near durban
+ near durban
+ arson
+ attacks
+ kwazulu near
+ kwazulu
+
+
+Cluster 8
+ bophuthatswana
+ police
+ members
+ beaten
+ severely
+ severely beaten
+ arrested
+ tvl
+ assaulted
+ detained
+
+
+Cluster 9
+ beaten
+ severely beaten
+ severely
+ members
+ sap
+ police
+ members sap
+ cape
+ supporter
+ arrested
+
+
+Cluster 10
+ ifp
+ supporters
+ anc
+ anc supporters
+ ifp supporters
+ natal
+ supporter
+ near
+ conflict
+ ifp supporter
+
+
+Cluster 11
+ burnt
+ burnt ifp supporters
+ burnt ifp
+ house
+ ifp
+ ifp supporters
+ supporter house
+ supporters
+ house burnt
+ anc
+
+
+Cluster 12
+ shot dead
+ dead
+ shot
+ member
+ transvaal
+ members
+ named
+ police
+ attack
+ ifp
+
+
+Cluster 13
+ detained
+ tortured
+ police
+ members
+ cape
+ sap
+ members sap
+ member
+ arrested
+ supporter
+
+
+Cluster 14
+ supporter shot
+ anc supporter shot
+ supporter shot dead
+ anc supporter
+ supporter
+ shot
+ anc
+ shot dead
+ dead
+ ifp
+
+
+Cluster 15
+ chief
+ home
+ home burnt
+ burnt
+ supporters
+ mr
+ residents
+ lost
+ house
+ allegedly
+
+
+Cluster 16
+ security
+ security branch
+ branch
+ amnesty
+ granted
+ granted amnesty
+ members
+ anc
+ operatives
+ johannesburg
+
+
+Cluster 17
+ arson attack
+ arson
+ attack
+ lost
+ destroyed
+ house
+ home
+ supporters
+ anc
+ conflict
+
+
+Cluster 18
+ amnesty
+ granted
+ granted amnesty
+ injured
+ people
+ killed
+ members
+ perpetrators
+ attack
+ people killed
+
+
+Cluster 19
+ shot injured
+ injured
+ shot
+ members
+ sap
+ members sap
+ cape
+ police
+ member
+ transvaal
+
+
